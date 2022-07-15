@@ -1,4 +1,4 @@
-### Hellow everyone 👋
+### Hello everyone 👋
 
 
 -  I’m currently working with Computer Science
