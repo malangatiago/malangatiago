@@ -1,8 +1,8 @@
 ### Hellow everyone 👋
 
 
-- 🔭 I’m currently working on Computer Science
+- 🔭 I’m currently working with Computer Science
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything
+- 💬 You can ask me about anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing games!
